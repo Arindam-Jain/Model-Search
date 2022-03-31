@@ -21,3 +21,7 @@ https://github.com/asu-cactus/Discovery_of_DL_Model_Version
 https://www.kaggle.com/code/ashwinshetgaonkar/movie-rating-naive-bayes-bert-step-wise [imbd]
 https://www.kaggle.com/code/madz2000/sentiment-analysis-cleaning-eda-bert-88-acc [imbd]
 https://www.kaggle.com/code/harshalgadhe/imdb-sentiment-classifier-97-accuracy-model
+
+# Metrics
+![image](https://user-images.githubusercontent.com/40122399/161122031-4cb96be5-34a0-4464-809f-dcb1527df1d7.png)
+
